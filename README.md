@@ -1,5 +1,6 @@
 # Fashion Magazine
 
+
 ## 프로젝트 소개
 
 인스타그램 피드 형식의 UI를 기반으로 올해의 패션 트렌드, 올해의 컬러, 스타일링 팁에 대해 소개하는 패션 매거진 웹입니다.
@@ -9,7 +10,9 @@
 
 빠른 시간 안에 진행하기 위해, 인스타그램 promal_mag(프로멀 매거진)님의 자료를 사용했습니다. (https://www.instagram.com/promal_mag/)
 
+
 ## 기술 스택
+
 
 ### Frontend
 - React
@@ -18,17 +21,21 @@
 - Zustand
 - CSS
 
+
 ### Backend
 - Node.js
 - Express
+
 
 ### Database
 - PostgreSQL
 - Prisma ORM
 
+
 ### Authentication
 - JWT
 - bcrypt
+
 
 ## 주요 기능
 
@@ -39,6 +46,7 @@
 - 저장한 게시글 목록 조회
 - 패션 매거진 페이지 구성 (올해의 컬러, 올해의 트렌드, 스타일링 팁)
 - 게시글, 페이지 댓글 작성 / 조회
+
 
 ## 프로젝트 구조
 
@@ -62,7 +70,9 @@ server/
 
 └ app.mjs
 
+
 ## 실행 방법
+
 
 ### Frontend
 
@@ -71,6 +81,7 @@ cd client
 npm install
 npm run dev
 ```
+
 
 ### Backend
 
