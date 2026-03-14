@@ -82,6 +82,6 @@ npm run dev
 
 ## Blog Post
 
-프로젝트 개발 과정은 아래 글에서 자세히 정리했습니다.
+프로젝트 개발 과정은 아래 티스토리 글에서 확인하실 수 있습니다.
 
 https://hochaa.tistory.com/1
