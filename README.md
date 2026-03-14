@@ -39,3 +39,32 @@
 - 저장한 게시글 목록 조회
 - 패션 매거진 페이지 구성 (올해의 컬러, 올해의 트렌드, 스타일링 팁)
 - 게시글, 페이지 댓글 작성 / 조회
+
+## 프로젝트 구조
+
+client/
+├ components
+├ pages
+├ store
+└ assets
+
+server/
+├ routes
+├ middleware
+├ prisma
+└ app.mjs
+
+## 실행 방법
+
+### Frontend
+
+```bash
+cd client
+npm install
+npm run dev
+
+### Backend
+
+cd server
+npm install
+npm run dev
