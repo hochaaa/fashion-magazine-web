@@ -44,6 +44,7 @@
 
 client/
 ├ components
+
 ├ pages
 ├ store
 └ assets
