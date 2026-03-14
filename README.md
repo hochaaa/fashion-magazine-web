@@ -43,28 +43,39 @@
 ## 프로젝트 구조
 
 client/
+
 ├ components
 
 ├ pages
+
 ├ store
+
 └ assets
 
 server/
+
 ├ routes
+
 ├ middleware
+
 ├ prisma
+
 └ app.mjs
 
 ## 실행 방법
 
 ### Frontend
 
+```bash
 cd client
 npm install
 npm run dev
+```
 
 ### Backend
 
+```bash
 cd server
 npm install
 npm run dev
+```
