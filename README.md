@@ -84,7 +84,7 @@ npm run dev
 
 ### Home Page
 <p align="center">
-    <img src="./screenshots/screenshot1.png" width="800">
+    <img src="./screenshot/screenshot1.png" width="800">
 </p>
 
 ### Feed
@@ -94,10 +94,13 @@ npm run dev
 
 ### Magazine Page
 <p align="center">
-    <img src="./screenshot/screenshot3.png" width="600">
-    <img src="./screenshot/screenshot4.png" width="600">
-    <img src="./screenshot/screenshot5.png" width="600">
-    <img src="./screenshot/screenshot6.png" width="600">
+  <img src="./screenshot/screenshot3.png" width="400">
+  <img src="./screenshot/screenshot4.png" width="400">
+</p>
+
+<p align="center">
+  <img src="./screenshot/screenshot5.png" width="400">
+  <img src="./screenshot/screenshot6.png" width="400">
 </p>
 
 ## Login Page
