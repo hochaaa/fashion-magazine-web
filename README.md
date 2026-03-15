@@ -80,6 +80,20 @@ npm install
 npm run dev
 ```
 
+## Screenshots
+
+### Home Feed
+![Home](./magazine 이미지/screenshot1.png)
+
+### Feed
+![Feed](./magazine 이미지/screenshot2.png)
+
+### Magazine Page
+![Magazine](./magazine 이미지/screenshot3.png)
+![Magazine](./magazine 이미지/screenshot4.png)
+![Magazine](./magazine 이미지/screenshot5.png)
+![Magazine](./magazine 이미지/screenshot6.png)
+
 ## Blog Post
 
 프로젝트 개발 과정은 아래 티스토리 글에서 확인하실 수 있습니다.
