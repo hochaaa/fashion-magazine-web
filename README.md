@@ -83,16 +83,16 @@ npm run dev
 ## Screenshots
 
 ### Home Feed
-![Home](./magazine 이미지/screenshot1.png)
+![Home](./screenshot/screenshot1.png)
 
 ### Feed
-![Feed](./magazine 이미지/screenshot2.png)
+![Feed](./screenshot/screenshot2.png)
 
 ### Magazine Page
-![Magazine](./magazine 이미지/screenshot3.png)
-![Magazine](./magazine 이미지/screenshot4.png)
-![Magazine](./magazine 이미지/screenshot5.png)
-![Magazine](./magazine 이미지/screenshot6.png)
+![Magazine](./screenshot/screenshot3.png)
+![Magazine](./screenshot/screenshot4.png)
+![Magazine](./screenshot/screenshot5.png)
+![Magazine](./screenshot/screenshot6.png)
 
 ## Blog Post
 
