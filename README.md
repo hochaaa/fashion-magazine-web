@@ -82,17 +82,33 @@ npm run dev
 
 ## Screenshots
 
-### Home Feed
-![Home](./screenshot/screenshot1.png)
+### Home Page
+<p align="center">
+    <img src="./screenshots/screenshot1.png" width="800">
+</p>
 
 ### Feed
-![Feed](./screenshot/screenshot2.png)
+<p align="center">
+    <img src="./screenshots/screenshot2.png" width="800">
+</p>
 
 ### Magazine Page
-![Magazine](./screenshot/screenshot3.png)
-![Magazine](./screenshot/screenshot4.png)
-![Magazine](./screenshot/screenshot5.png)
-![Magazine](./screenshot/screenshot6.png)
+<p align="center">
+    <img src="./screenshots/screenshot3.png" width="600">
+    <img src="./screenshots/screenshot4.png" width="600">
+    <img src="./screenshots/screenshot5.png" width="600">
+    <img src="./screenshots/screenshot6.png" width="600">
+</p>
+
+## Login Page
+<p align="center">
+    <img src="./screenshots/screenshot7.png" width="800">
+</p>
+
+## Bookmark Page
+<p align="center">
+    <img src="./screenshots/screenshot8.png" width="800">
+</p>
 
 ## Blog Post
 
