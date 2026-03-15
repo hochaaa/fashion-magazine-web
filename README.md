@@ -89,25 +89,25 @@ npm run dev
 
 ### Feed
 <p align="center">
-    <img src="./screenshots/screenshot2.png" width="800">
+    <img src="./screenshot/screenshot2.png" width="800">
 </p>
 
 ### Magazine Page
 <p align="center">
-    <img src="./screenshots/screenshot3.png" width="600">
-    <img src="./screenshots/screenshot4.png" width="600">
-    <img src="./screenshots/screenshot5.png" width="600">
-    <img src="./screenshots/screenshot6.png" width="600">
+    <img src="./screenshot/screenshot3.png" width="600">
+    <img src="./screenshot/screenshot4.png" width="600">
+    <img src="./screenshot/screenshot5.png" width="600">
+    <img src="./screenshot/screenshot6.png" width="600">
 </p>
 
 ## Login Page
 <p align="center">
-    <img src="./screenshots/screenshot7.png" width="800">
+    <img src="./screenshot/screenshot7.png" width="800">
 </p>
 
 ## Bookmark Page
 <p align="center">
-    <img src="./screenshots/screenshot8.png" width="800">
+    <img src="./screenshot/screenshot8.png" width="800">
 </p>
 
 ## Blog Post
