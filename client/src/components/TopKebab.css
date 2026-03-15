@@ -1,0 +1,120 @@
+/* client/src/components/TopKebab.css */
+
+/* ===== 오른쪽 상단 로고 버튼 ===== */
+.topKebabWrap {
+  position: fixed;
+  top: 28px;
+  right: 32px;          /* ✅ 진짜 화면 맨 오른쪽 */
+  z-index: 9999;
+}
+
+/* 버튼: 박스 완전 제거 */
+.topKebabBtn {
+  all: unset;
+  cursor: pointer;
+  display: block;
+  position: fixed;
+  top: 22.5px;
+  right: 16px;
+}
+
+/* 로고 이미지 자체 */
+.topKebabLogo {
+  width: 80px;          /* ✅ 크게 */
+  height: auto;
+  display: block;
+
+  transition:
+    transform 0.18s ease,
+    opacity 0.18s ease;
+}
+
+.topKebabBtn:hover .topKebabLogo {
+  transform: translateY(-1px);
+  opacity: 0.85;
+}
+
+/* ===== 바깥 클릭용 ===== */
+.topKebabOverlay {
+  position: fixed;
+  inset: 0;
+  background: transparent;
+  z-index: 9998;
+}
+
+/* ===== 드롭다운 ===== */
+.topKebabMenu {
+  position: fixed;
+  top: 28px;
+  right: 32px;
+  transform: translateY(45px);
+
+  width: 180px;
+  padding: 8px;
+
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 12px;
+
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+
+  overflow: hidden;
+  box-sizing: border-box;
+  z-index: 10000;
+}
+
+.topKebabItem {
+  display: block;
+  width: 100%;
+  padding: 10px;
+
+  border-radius: 10px;
+  border: 0;
+  background: transparent;
+
+  text-align: left;
+  font-size: 14px;
+  cursor: pointer;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.82);
+}
+
+.topKebabItem:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.topKebabDivider {
+  height: 1px;
+  margin: 6px 0;
+  background: rgba(0, 0, 0, 0.08);
+}
+
+.topKebabItem.danger {
+  color: #d32f2f;
+}
+
+.topKebabMenu {
+  border-radius: var(--radius-md);
+  border-color: var(--gray-border);
+  box-shadow: var(--shadow-soft);
+}
+
+.topKebabItem {
+  color: var(--gray-800);
+}
+
+.topKebabItem:hover {
+  background: var(--gray-bg-hover);
+}
+
+.topKebabBtn {
+  transition: transform var(--motion-fast);
+}
+
+.topKebabBtn:hover {
+  transform: translateY(var(--lift-hover));
+}
+
+.topKebabBtn:active {
+  transform: translateY(0) scale(var(--scale-active));
+}

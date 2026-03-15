@@ -1,0 +1,35 @@
+/* 위쪽 위치 미세 조정 */
+.homeOffset {
+  margin-top: 10px;   /* 여기 숫자로 전체 위치 조정 가능 */
+}
+
+/* ===== Header ===== */
+.homeHeader {
+  margin-bottom: 34px;
+}
+
+/* 작은 상단 텍스트 (매거진 무드 핵심) */
+.homeKicker {
+  display: block;
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  font-weight: 700;
+  opacity: 0.45;
+  margin-bottom: 8px;
+}
+
+/* 메인 타이틀 */
+.homeTitle {
+  font-size: 28px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin: 0;
+}
+
+/* 얇은 구분선 */
+.homeRule {
+  margin-top: 14px;
+  width: 100%;
+  height: 1px;
+  background: rgba(0,0,0,0.12);
+}
